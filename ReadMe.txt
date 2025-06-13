@@ -1,12 +1,12 @@
-This document contains details on how to run the experiments.
+DOPE is a Safe Reinforcement Learning algorithm that balances reward maximization with safety guarantees. It carefully combines optimistic rewards with pessimistic constraint costs to ensure safe exploration in constrained MDPs. 
 
+This repo provides a clean implementation with experiments from our NeurIPS 2022 paper.
 
-Python Dependencies:
+To run these experiments, first install the python Dependencies:
 
 1. PuLP:  “pip install pulp”
 
 2. MatplotLib, Numpy, Pandas
-
 
 
 How to Run:
