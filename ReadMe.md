@@ -4,7 +4,7 @@ DOPE is a Safe Reinforcement Learning algorithm that balances reward maximizatio
 
 This repo provides a clean implementation with experiments from our NeurIPS 2022 paper. This is the first ever repository for model based Constrained RL.
 
-To run these experiments, first install the python Dependencies:
+To run these experiments, first install the following python dependencies, preferbly via Conda virtual environment:
 
 1. PuLP:  “pip install pulp”
 
