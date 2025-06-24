@@ -6,10 +6,10 @@ This repo provides a clean implementation with experiments from our NeurIPS 2022
 
 To run these experiments, first install the following python dependencies, preferbly via Conda virtual environment:
 
-1. PuLP:  “pip install pulp”
-2. MatplotLib
-3. Numpy
-4. Pandas
+- PuLP:  “pip install pulp”
+- MatplotLib
+- Numpy
+- Pandas
 
 
 How to Run:
