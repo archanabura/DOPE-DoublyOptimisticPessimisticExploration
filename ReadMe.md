@@ -2,7 +2,7 @@
 
 DOPE is a Safe Reinforcement Learning algorithm that balances reward maximization with safety guarantees. It carefully combines optimistic rewards with pessimistic constraint costs to ensure safe exploration in constrained MDPs. 
 
-This repo provides a clean implementation with experiments from our NeurIPS 2022 paper.
+This repo provides a clean implementation with experiments from our NeurIPS 2022 paper. This is the first ever repository for model based Constrained RL.
 
 To run these experiments, first install the python Dependencies:
 
